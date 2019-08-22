@@ -6,33 +6,47 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Title</title>
+
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+<!--    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">-->
+
     <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
 
 </head>
 <body>
 <!-- Material form login -->
-<hgroup>
-    <h1>Welcome to Your Portal</h1>
-    <h3>PISO</h3>
-</hgroup>
-<form>
-    <div class="group">
-        <input type="text"><span class="highlight"></span><span class="bar"></span>
-        <label>Name</label>
+<!--<hgroup>-->
+<!--    <h1>Welcome to Your Portal</h1>-->
+<!--    <h3>PISO</h3>-->
+<!--</hgroup>-->
+<main>
+    <div class="container">
+        <form>
+            <h2>Login</h2>
+            <div class="input-group">
+<!--                <label for="txtUserName">User Name</label>-->
+                <input type="text" id="txtUserName" placeholder="Email Address" class="form-control" name="txtUserName" />
+            </div>
+            <div class="input-group">
+<!--                <label for="txtPassword">Password</label>-->
+                <input type="password" id="txtPassword" class="form-control" placeholder="Password" name="txtPassword" />
+                <button type="button" id="btnToggle" class="toggle"><i id="eyeIcon" class="fa fa-eye"></i></button>
+            </div>
+            <button class="btn btn-lg btn-primary btn-block">Go!</button>
+        </form>
     </div>
-    <div class="group">
-        <input type="email"><span class="highlight"></span><span class="bar"></span>
-        <label>Email</label>
-    </div>
-    <button type="button" class="button buttonBlue">Login
-        <div class="ripples buttonRipples"><span class="ripplesCircle"></span></div>
-    </button>
-</form>
+</main>
 <footer><a href="http://www.polymer-project.org/" target="_blank"><img src="https://www.polymer-project.org/images/logos/p-logo.svg"></a>
     <p>You Gotta Love <a href="http://www.polymer-project.org/" target="_blank">Google</a></p>
 </footer>
+<script src="js/vendor/jquery-1.12.4.min.js"></script>
+
+<script src="js/bootstrap.min.js"></script>
+
 <script src="js/login.js"></script>
 
-            <!-- Sign in button -->
+<!-- Sign in button -->
 </body>
 </html>
