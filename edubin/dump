@@ -1,52 +1,75 @@
+ <div class="col-lg-6 offset-lg-1">
+                    <div class="about-event mt-50">
+                        <div class="event-title">
+                            <h4>Our Nursery School Subjects</h4>
+                            <p>Our curriculum for Nursery makes learning fun for our pupils. Subjects offered in Nursery helps to build and prepare pupils for the next level. The Nursery section is divided into:</p>
+                        <p class="text-info">Early Nursery (Creche -18months, Pre-School-2 years)
+                            Upper Nursery (3years - 4 years)</p>
+                        </div> <!-- event title -->
+                        <ul>
+                            <li>
+                                <div class="single-event">
+                                    <span><i class="fa fa-anchor"></i> CREATIVE ART</span>
+                                    <span><i class="fa fa-hand-peace-o"></i> HAND WRITING</span>
+                                    <span><i class="fa fa-calculator"></i> Mathematics</span>
+                                    <span><i class="fa fa-retweet"></i> SOCIAL HABITS</span>
+                                    <span><i class="fa fa-assistive-listening-systems"></i> English Language</span>
+                                    <span><i class="fa fa-space-shuttle"></i> SCIENCE</span>
+                                    <span><i class="fa fa-soundcloud"></i> RHYMES</span>
+                                    <span><i class="fa fa-quote-right"></i> PHONICS</span>
+                                    <span><i class="fa fa-television"></i> VR (Verbal & Quantitative)</span>
+                                    <span><i class="fa fa-book"></i> CHRISTIAN RELIGIOUS KNOWLEDGE</span>
+
+                                </div>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <div class="single-event">
+                                 <h4>Our Basic School Subjects</h4>
+                                    <p>Basic education is fun at Promise International School. Our pupils
+                                        are taught with audio - visual aids that eases their assimilation of topics . The subjects taught include:</p>
+                                    <div class=" text-uppercase">
+                                        <span><i class="fa fa-anchor"></i>Cultural & CREATIVE ART</span>
+                                        <span><i class="fa fa-barcode"></i> Mental Arithmetic</span>
+                                        <span><i class="fa fa-android"></i> Quantitative Reasoning</span>
+                                        <span><i class="fa fa-assistive-listening-systems"></i> English Language</span>
+                                        <span><i class="fa fa-calculator"></i> Mathematics</span>
+                                        <span><i class="fa fa-arrows-alt"></i> Igbo Language</span>
+                                        <span><i class="fa fa-arrow-circle-down"></i> French</span>
+                                        <span><i class="fa fa-laptop"></i> Basic Science Technology</span>
+                                        <span><i class="fa fa-television"></i> Verbal Reasoning</span>
+                                        <span><i class="fa fa-book"></i> English Literature</span>
+                                        <span><i class="fa fa-bookmark"></i> History</span>
+                                        <span><i class="fa fa-quote-right"></i> PHONICS</span>
+                                        <span><i class="fa fa-print"></i> English Grammar & Dictation</span>
+                                        <span><i class="fa fa-group"></i> National Values</span>
+                                        <span><i class="fa fa-book"></i> CHRISTIAN RELIGIOUS KNOWLEDGE</span>
+                                        <span><i class="fa fa-codepen"></i> ICT</span>
 
 
 
+                                     </div>
 
 
+                                </div>
+                            </li>
+                            <li>
+                                <div class="single-event">
+                                    <h4>Our Secondary School Subjects</h4>
 
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Title</title>
-    <link rel="stylesheet" href="css/login.css">
-
-</head>
-<body>
-<!-- Material form login -->
-<hgroup>
-    <h1>Welcome to Your Portal</h1>
-    <h3>PISO</h3>
-</hgroup>
-<form>
-    <div class="group">
-        <input type="text"><span class="highlight"></span><span class="bar"></span>
-        <label>Name</label>
-    </div>
-    <div class="group">
-        <input type="email"><span class="highlight"></span><span class="bar"></span>
-        <label>Email</label>
-    </div>
-    <div class="group">
-        <input type="password" id="password"><span class="highlight"></span>
-<!--        <span class="bar"></span>-->
-        <button class="btn-toggle-pass active"><i class="fa fa-eye"></i></button>
-        <label>Password</label>
-    </div>
-    <button type="button" class="button buttonBlue">Login
-        <div class="ripples buttonRipples"><span class="ripplesCircle"></span></div>
-    </button>
-</form>
-<footer><a href="http://www.polymer-project.org/" target="_blank"><img src="https://www.polymer-project.org/images/logos/p-logo.svg"></a>
-    <p>You Gotta Love <a href="http://www.polymer-project.org/" target="_blank">Google</a></p>
-</footer>
-<script src="js/login.js"></script>
-
-            <!-- Sign in button -->
-</body>
-</html>
+                                    <span><i class="fa fa-anchor"></i> CREATIVE ART</span>
+                                    <span><i class="fa fa-hand-peace-o"></i> HAND WRITING</span>
+                                    <span><i class="fa fa-calculator"></i> Mathematics</span>
+                                    <span><i class="fa fa-retweet"></i> SOCIAL HABITS</span>
+                                    <span><i class="fa fa-assistive-listening-systems"></i> English Language</span>
+                                    <span><i class="fa fa-space-shuttle"></i> SCIENCE</span>
+                                    <span><i class="fa fa-soundcloud"></i> RHYMES</span>
+                                    <span><i class="fa fa-quote-right"></i> PHONICS</span>
+                                    <span><i class="fa fa-television"></i> VR (Verbal & Quantitative)</span>
+                                    <span><i class="fa fa-book"></i> CHRISTIAN RELIGIOUS KNOWLEDGE</span>
+                                </div>
+                            </li>
+                        </ul>
+                    </div> <!-- about event -->
+                </div>
